@@ -1,11 +1,11 @@
 @startuml core
-!include https://unpkg.com/plantuml-style-c4@latest/colors.puml
+'!include https://unpkg.com/plantuml-style-c4@latest/colors.puml
 ' uncomment the following line and comment the first to use locally
-'!include ./colors.puml
+!include /Users/zxh/plantuml-style-c4/colors.puml
 
-!include https://unpkg.com/plantuml-style-c4@latest/skinparam.puml
+'!include https://unpkg.com/plantuml-style-c4@latest/skinparam.puml
 ' uncomment the following line and comment the first to use locally
-'!include ./skinparam.puml
+!include /Users/zxh/plantuml-style-c4/skinparam.puml
 
 !define TECHN_FONT_SIZE 12
 

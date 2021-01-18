@@ -1,7 +1,7 @@
 @startuml c4-theme-default
-!include https://unpkg.com/plantuml-style-c4@latest/colors.puml
+'!include https://unpkg.com/plantuml-style-c4@latest/colors.puml
 ' uncomment the following line and comment the first to use locally
-'!include ./colors.puml
+!include /Users/zxh/plantuml-style-c4/colors.puml
 
 ' Colors
 ' ##################################

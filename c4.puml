@@ -1,12 +1,12 @@
 @startuml c4-core
 
-!include https://unpkg.com/plantuml-style-c4@latest/core.puml
+'!include https://unpkg.com/plantuml-style-c4@latest/core.puml
 ' uncomment the following line and comment the first to use locally
-'!include ./core.puml
+!include /Users/zxh/plantuml-style-c4/core.puml
 
-!include https://unpkg.com/plantuml-style-c4@latest/c4_theme.puml
+'!include https://unpkg.com/plantuml-style-c4@latest/c4_theme.puml
 ' uncomment the following line and comment the first to use locally
-'!include ./c4_theme.puml
+!include /Users/zxh/plantuml-style-c4/c4_theme.puml
 
 ' Colors
 ' ##################################
